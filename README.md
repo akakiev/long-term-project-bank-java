@@ -40,7 +40,7 @@ Implementing classes/ interfaces namely Customer, Account, and CentralBank with 
 Implementing the subclasses UNB, NBD, and FGB with required member variables and functions.
 
 ## Example of UML diagram:
-<p align="center"><img align="center" src="" height="300" width="400" /></p>
+<p align="center"><img align="center" src="https://github.com/akakiev/long-term-project-bank-java/blob/main/b1.png" height="300" width="400" /></p>
 
 <footer>
 
